@@ -49,7 +49,7 @@ $conn->close();
 <body>
     <header>
         <div class="container">
-            <a href="MainPage.php">
+            <a href="MainPage.html">
                 <h1>Movie Magic</h1>
             </a>
             <nav>
