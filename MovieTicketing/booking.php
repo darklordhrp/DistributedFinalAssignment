@@ -35,7 +35,7 @@ nav ul li:first-child a {
             <h1>Movie Selection</h1>
             <nav>
                 <ul>
-                    <li><a href="MainPage.php">MainPage</a></li>
+                    <li><a href="MainPage.html">MainPage</a></li>
                     <li><a href="booking.php" class="active">Choose a Movie</a></li>
                     
                     <li><a href="logout.php">Log Out</a></li> <!-- Change to Log Out button -->
